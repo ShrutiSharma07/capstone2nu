@@ -1,0 +1,9 @@
+Collecting unittest-xml-reporting~=3.0.2
+  Downloading unittest_xml_reporting-3.0.4-py2.py3-none-any.whl (19 kB)
+Installing collected packages: unittest-xml-reporting
+Successfully installed unittest-xml-reporting-3.0.4
+Requirement already satisfied: unittest-xml-reporting~=3.0.2 in ./.pybuilder/plugins/cpython-3.7.6.final.0/lib/python3.7/site-packages (3.0.4)
+Requirement already satisfied: unittest-xml-reporting~=3.0.2 in ./.pybuilder/plugins/cpython-3.7.6.final.0/lib/python3.7/site-packages (3.0.4)
+Requirement already satisfied: unittest-xml-reporting~=3.0.2 in ./.pybuilder/plugins/cpython-3.7.6.final.0/lib/python3.7/site-packages (3.0.4)
+Requirement already satisfied: unittest-xml-reporting~=3.0.2 in ./.pybuilder/plugins/cpython-3.7.6.final.0/lib/python3.7/site-packages (3.0.4)
+Requirement already satisfied: unittest-xml-reporting~=3.0.2 in ./.pybuilder/plugins/cpython-3.7.6.final.0/lib/python3.7/site-packages (3.0.4)

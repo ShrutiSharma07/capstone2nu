@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="unit_tests.py" name="unit_tests.TestSelenium-20201212162659" skipped="0" tests="1" time="19.308" timestamp="2020-12-12T16:27:19">
+	<testcase classname="unit_tests.TestSelenium" name="test_selenium" time="19.308" timestamp="2020-12-12T16:27:19"/>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="1" failures="0" file="unit_tests.py" name="unit_tests.TestSelenium-20201212160457" skipped="0" tests="1" time="0.027" timestamp="2020-12-12T16:04:58">
+	<testcase classname="unit_tests.TestSelenium" name="test_selenium" time="0.027" timestamp="2020-12-12T16:04:58">
+		<error message="Message: 'chromedriver' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+" type="WebDriverException">
+<![CDATA[Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/unittest2/case.py", line 67, in testPartExecutor
+    yield
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/unittest2/case.py", line 621, in run
+    self.setUp()
+  File "/Users/shrush/Desktop/tests/src/unittest/python/unit_tests.py", line 12, in setUp
+    self.driver = webdriver.Chrome(r"/Browsers/chromedriver")
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/chrome/webdriver.py", line 73, in __init__
+    self.service.start()
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/common/service.py", line 83, in start
+    os.path.basename(self.path), self.start_error_message)
+selenium.common.exceptions.WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+
+]]>		</error>
+	</testcase>
+</testsuite>

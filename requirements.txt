@@ -1,0 +1,4 @@
+selenium==3.141.0
+pytest==2.4.2
+unittest2==1.1.0
+pybuilder==0.12.10

@@ -1,4 +1,4 @@
-#!/Users/shrush/Desktop/tests/target/venv/build/cpython-3.7.4.final.0/bin/python
+#!/Users/shrush/capstone2nu/tests/target/venv/build/cpython-3.7.4.final.0/bin/python
 
 import sys
 import getopt

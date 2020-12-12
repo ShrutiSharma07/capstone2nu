@@ -57,7 +57,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/shrush/Desktop/tests/.pybuilder/plugins/cpython-3.7.4.final.0"
+set -gx VIRTUAL_ENV "/Users/shrush/capstone2nu/tests/.pybuilder/plugins/cpython-3.7.4.final.0"
 
 # https://github.com/fish-shell/fish-shell/issues/436 altered PATH handling
 if test (echo $FISH_VERSION | tr "." "\n")[1] -lt 3

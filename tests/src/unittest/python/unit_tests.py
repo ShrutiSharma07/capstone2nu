@@ -12,7 +12,7 @@ class TestSelenium(unittest2.TestCase):
         self.driver = webdriver.Chrome(r"Browsers/chromedriver")
 
         self.driver.maximize_window()
-        self.driver.get("file:///Users/shrush/Desktop/tests/src/unittest/python/web/index.html")
+        self.driver.get("file:///Users/shrush/capstone2nu/tests/src/unittest/python/web/index.html")
 
     def test_selenium (self):
 

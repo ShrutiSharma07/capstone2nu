@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/Users/shrush/Desktop/tests/target/venv/test/cpython-3.7.4.final.0"
+$VIRTUAL_ENV = r"/Users/shrush/capstone2nu/tests/target/venv/test/cpython-3.7.4.final.0"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
